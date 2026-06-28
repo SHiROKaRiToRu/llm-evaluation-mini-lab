@@ -1152,3 +1152,15 @@ If the package is expected to arrive tomorrow (rather than already delivered), t
 * Editing
 * Logical consistency
 * Grammar",3,3,3,3,153,3,FALSE,3,3,Accurate and concise.
+P21,GEMINI 3.1 PRO,Hard Critical Instruction,"Write exactly 100 words.
+
+Do not use the letter ""e"".",I walk at night. Dark clouds hang low in a black sky. Stars do not show. A cold wind blows across my path. I pull my coat up against cold chills. Dogs bark at a passing car. Shadows fall across a long road. I look for a warm location to sit and think. No light glows from windows up across a big hill. An owl hoots from tall woods. I walk on and on. My boots hit hard rocks. A cat runs past my foot. I will stop walking soon. I must find a cozy room to stay in now.,*Hard instructions for hallucinations,3,3,3,3,100,3,FALSE,3,3,Accurate and concise.
+P21,"Z.ai (GLM 4.7)
+",Hard Critical Instruction,"Write exactly 100 words.
+
+Do not use the letter ""e"".",A big cat sat on a mat. It was a dark night. A cold wind hit hard. Stars hung in a black sky. A dog ran by. It did not look back. I stood by a tall wall. My mind was full of sorrow. I had a sad song to sing. But my lips stuck shut. A moth shot into a hot lamp. It sank down to a dusty floor. A big moon hung low. I took a long walk. I ran down a dirt road. A bus shot past fast. Its bright lights hurt my own skull a lot.,*Hard instructions for hallucinations,3,3,3,3,100,3,FALSE,3,3,Accurate and concise.
+P21,"GPT-5.5
+",Hard Critical Instruction,"Write exactly 100 words.
+
+Do not use the letter ""e"".","A calm dawn brings warm light across all hills and calm bays Birds sing as soft winds drift by old oaks stand firm amid bright blooms Joy grows within all who walk slowly along winding paths until dusk falls calmly Night follows with mild stars glowing high aloft All may find comfort amid this tranquil world as kind souls join hands sharing goodwill daily with humor and song until dawn calls again all forth toward joyful days full of spirit and happy work always giving all folks bold faith within any trial lifting all spirits high amid dawn glow now
+",*Hard instructions for hallucinations,3,3,3,3,100,3,FALSE,3,3,Accurate and concise.
